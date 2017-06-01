@@ -1,1 +1,1 @@
-$ echo '<?php phpinfo();' > index.php
+<?php phpinfo();' >
